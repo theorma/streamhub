@@ -1,6 +1,5 @@
 import "./globals.css";
-import AgeVerificationModal from "@/components/AgeVerificationModal";
-
+import AgeVerificationModal from '../components/AgeVerificationModal';
 export const metadata = {
   title: "StreamHub - Transmisiones en Vivo 24/7",
   description: "Disfruta de eventos deportivos, noticias y señales en vivo en HD sin interrupciones.",
